@@ -16,10 +16,8 @@ To view this project:
 1. Clone the repository:  
    `git clone https://github.com/cybersharph/tribute-page.git`
 2. Open the `index.html` file in your browser.
+3. Feel free to modify and use code as you want.
 
-## Screenshots
-
-![Screenshot of Tribute Page](path-to-your-screenshot.png)
 
 ## Author
 
